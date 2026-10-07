@@ -89,6 +89,6 @@ manage badminton court reservations.
 
 - **Email:** sanjayaadi2004@gmail.com
 - **GitHub:** (AdiSanjaya17](https://github.com/AdiSanjaya17)
-- **Linkedin:** (www.linkedin.com/in/i-gede-adi-sanjaya-b77470372)
+- **Linkedin:** (www.linkedin.com/in/igedeadisanjaya)
 
 
